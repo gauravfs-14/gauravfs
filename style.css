@@ -117,8 +117,7 @@ body {
 }
 
 .wrapper .sidebar .social_media a:hover {
-  background: #7ab1f5;
-  box-shadow: #679ad8;
+  color: #dbd5d5;
   transition: 0.3s;
 }
 
