@@ -504,9 +504,11 @@ body {
   }
   .fa-bars {
     opacity: 1;
-    position: fixed;
-    top: 3%;
+    position: absolute;
     right: 15%;
+    top: 4vh;
+    margin-top: auto;
+    margin-bottom: auto;
     color: #f3f5f9;
     cursor: pointer;
     pointer-events: all;
