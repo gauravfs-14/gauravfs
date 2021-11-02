@@ -9,4 +9,5 @@ burger.addEventListener("click", () => {
   cont.classList.toggle("cont");
   hedr.classList.toggle("tit");
   web.classList.toggle("web");
+  burger.classList.toggle("fa-times");
 });
